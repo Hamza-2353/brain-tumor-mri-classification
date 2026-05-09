@@ -86,7 +86,7 @@ Training ran for **10 epochs** with batch size **32**.
 ![Training Metrics](results/training_metrics.png)
 
 ### Confusion Matrix
-![Confusion Matrix](results/heatmap.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ---
 
