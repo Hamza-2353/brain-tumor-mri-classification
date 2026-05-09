@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor MRI Classification — 99% Accuracy
 
-[![Open in Colab](https://colab.research.google.com/drive/1jbqMfdsZS_G4ZwF78u0HYj25zJs_l9DE?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jbqMfdsZS_G4ZwF78u0HYj25zJs_l9DE?usp=sharing)
 
 ---
 
@@ -105,6 +105,10 @@ brain-tumor-mri-classification/
 ## How to Run
 
 ### ▶ Google Colab (recommended — no setup needed)
+
+| Notebook | Link |
+|---|---|
+| Brain Tumor MRI Classification | [Open in Colab](https://colab.research.google.com/drive/1jbqMfdsZS_G4ZwF78u0HYj25zJs_l9DE?usp=sharing) |
 
 1. Click the **Open in Colab** badge above
 2. Go to **Runtime → Change runtime type → T4 GPU**
