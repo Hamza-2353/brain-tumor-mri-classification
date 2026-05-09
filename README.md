@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor MRI Classification — 99% Accuracy
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QaeR2XMkm62vQ5ODXkYbe37t0YkYJNzO?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/drive/1jbqMfdsZS_G4ZwF78u0HYj25zJs_l9DE?usp=sharing)
 
 ---
 
