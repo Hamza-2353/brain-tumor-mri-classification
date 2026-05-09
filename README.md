@@ -80,6 +80,14 @@ Per-class prediction visualisation
 
 Training ran for **10 epochs** with batch size **32**.
 
+## Visual Results
+
+### Training Metrics
+![Training Metrics](results/training_metrics.png)
+
+### Confusion Matrix
+![Confusion Matrix](results/heatmap.png)
+
 ---
 
 ## Repository Structure
